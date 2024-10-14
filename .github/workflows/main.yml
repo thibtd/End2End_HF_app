@@ -15,8 +15,8 @@ jobs:
       - name: add remote
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git remote add space https://thitbd:$HF_TOKEN@huggingface.co/spaces/thibtd/demoCDEnd2End
+        run: git remote add space https://thitbd:$HF_TOKEN@huggingface.co/spaces/thibtd/GitActionsToHFSummary
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://thibtd:$HF_TOKEN@huggingface.co/spaces/thibtd/demoCDEnd2End main
+        run: git push https://thibtd:$HF_TOKEN@huggingface.co/spaces/thibtd/GitActionsToHFSummary main
