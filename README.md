@@ -1,15 +1,16 @@
 # End2End_HF_app
 
 ---
-title: end 2 end summary app
-emoji: 🛠️
-colorFrom: purple
-colorTo: purple
-sdk: gradio
-sdk_version: "5.0.2"
+title: {{end 2 end summary app}}
+emoji: {{🛠️}}
+colorFrom: {{purple}}
+colorTo: {{purple}}
+sdk: {{gradio}}
+sdk_version: "{{5.0.2}}"
 app_file: app.py
 pinned: false
 ---
+
 [![Sync to Hugging Face hub](https://github.com/thibtd/End2End_HF_app/actions/workflows/main.yml/badge.svg)](https://github.com/thibtd/End2End_HF_app/actions/workflows/main.yml)
 
 Try the app here: https://huggingface.co/spaces/thibtd/GitActionsToHFSummary
