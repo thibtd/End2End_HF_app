@@ -1,12 +1,12 @@
 # End2End_HF_app
 
 ---
-title: {{end 2 end summary app}}
-emoji: {{🛠️}}
-colorFrom: {{purple}}
-colorTo: {{purple}}
-sdk: {{gradio}}
-sdk_version: "{{5.0.2}}"
+title: end 2 end summary app
+emoji: 🛠️
+colorFrom: purple
+colorTo: purple
+sdk: gradio
+sdk_version: "5.0.2"
 app_file: app.py
 pinned: false
 ---
