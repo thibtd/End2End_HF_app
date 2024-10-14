@@ -10,7 +10,7 @@ pinned: false
 ---
 # End2End_HF_app
 
-[![Sync to Hugging Face hub](https://github.com/thibtd/End2End_HF_app/actions/workflows/main.yml/badge.svg)](https://github.com/thibtd/End2End_HF_app/actions/workflows/main.yml)
+[![Sync to Hugging Face hub](https://github.com/thibtd/End2End_HF_app/actions/workflows/main.yml/badge.svg)](https://github.com/thibtd/End2End_HF_app/actions/workflows/main.yml)  [![Makefile CI](https://github.com/thibtd/End2End_HF_app/actions/workflows/MakeCI.yml/badge.svg)](https://github.com/thibtd/End2End_HF_app/actions/workflows/MakeCI.yml)
 
 Try the app here: https://huggingface.co/spaces/thibtd/GitActionsToHFSummary
 
